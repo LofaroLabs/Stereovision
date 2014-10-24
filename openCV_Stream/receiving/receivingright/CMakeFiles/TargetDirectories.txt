@@ -1,0 +1,1 @@
+/home/asus/projects/archr_Code/openCV_Stream/receiving/receivingright/CMakeFiles/StereoCam.dir
